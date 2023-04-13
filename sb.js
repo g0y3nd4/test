@@ -1,1 +1,1 @@
-<script>alert(shuvo')</script>
+alert('shuvo');
